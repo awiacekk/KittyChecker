@@ -51,7 +51,6 @@ show_pages(
         Page("app.py", "Main page", ":star:"),
         Page("pages/adoption.py", "About adoption", ":house:"),
         Page("pages/breeds.py", "Cat breeds", ":cat2:"),
-        Page("pages/memes.py", "Cat memes", ":joy_cat:"),
     ]
 )
 
